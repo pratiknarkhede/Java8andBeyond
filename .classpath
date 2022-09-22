@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01_a_little_example"/>
+	<classpathentry kind="src" path="02_gone_wrong"/>
+	<classpathentry kind="src" path="03_the_right_way"/>
+	<classpathentry kind="src" path="04_toset"/>
+	<classpathentry kind="src" path="05_to_unmodifiable"/>
+	<classpathentry kind="src" path="06_partition"/>
+	<classpathentry kind="src" path="07_joining"/>
+	<classpathentry kind="src" path="08_grouping"/>
+	<classpathentry kind="src" path="09_and_mapping"/>
+	<classpathentry kind="src" path="10_collectingandthen"/>
+	<classpathentry kind="src" path="11_new_jdk_features"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
